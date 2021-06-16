@@ -1,6 +1,6 @@
 ## Hi there, I'm Lena 👋
 
-I’m a **Full Stack Web Developer**, also with experience as a Digital Marketer. I mainly use **Ruby on Rails**, **HTML**, **CSS** and **JavaScript**. Bringing innovative ideas to life one line of code at a time.
+I’m a **Full Stack Web Developer**, also with experience as a Digital Marketer. I mainly use **Ruby on Rails**, **HTML**, **CSS** and **JavaScript**. Bringing innovative ideas to life, one line of code at a time.
 
 :round_pushpin: Based in Tokyo, Japan
 
