@@ -1,9 +1,10 @@
-## Hi there, I'm Lena 👋
+## Hi :blush:
 
-I’m a **Full Stack Web Developer**, also with experience as a Digital Marketer. I mainly use **Ruby on Rails**, **HTML**, **CSS** and **JavaScript**. Bringing innovative ideas to life, one line of code at a time.
+My name is Lena Namiki and I’m a Full Stack Web Developer based in Tokyo, Japan.
+Looking for opportunities to put my skills toward helping others, giving back to my community and making a social impact.
 
-:round_pushpin: Based in Tokyo, Japan
+Current Roles:
+Web Developer @ Adobe
+Freelance copywriter/developer @ Socious
 
-:computer: Currently learning **React**
-
-:incoming_envelope: Contact me at lena.namiki@gmail.com
+contact: lena.namiki@gmail.com
